@@ -15,9 +15,7 @@ using System.Windows.Shapes;
 
 namespace ExamenUF1VazgenM
 {
-    /// <summary>
-    /// Lógica de interacción para MainWindow.xaml
-    /// </summary>
+    
     public partial class MainWindow : Window
     {
         
